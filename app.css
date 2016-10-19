@@ -1,1 +1,35 @@
-<font color="0b0b8e"><b>
+div {
+  text-align: center;
+} 
+
+
+div img{
+
+}
+
+.parallel{
+  overflow: hidden;
+  margin-top: 500px;
+}
+
+.parallel1{
+  overflow: hidden;
+  margin-top: 50px;
+}
+
+
+.left{
+  float: left;
+}
+
+.right{
+  float: right;
+}
+
+.middle{
+  margin: 0 100px;
+}
+
+.adjust{
+  margin-top: 100px;
+}
